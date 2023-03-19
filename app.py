@@ -8,14 +8,14 @@ from io import BytesIO
 openai.api_key = st.secrets["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"]
 
 st.set_page_config(
-    page_title="AI Comedy",
+    page_title="AI Story Generator",
     page_icon="😂",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Get Help": "https://www.github.com/younesbram/aicomedy",
+        "Get Help": "https://github.com/KaushalNaresh/AI_in_Storytelling/",
         "Report a bug": "https://www.younes.ca/contact",
-        "About": "# AI Comedy\nAn app that uses NLP to generate hilarious skits!",
+        "About": "# AI in Storytelling\nA fine-tuned GPT-2 model, you can effortlessly use to generate creative and engaging text that seamlessly continues any given story!",
     },
 )
 
