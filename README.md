@@ -1,4 +1,4 @@
-# Fine tuning a GPT-2 model on GOT Data
+# Fine tuning a GPT-2 model on Game Of Thrones Data
 
 ![Flow Chart](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Flow_Chart.png)
 
