@@ -36,3 +36,4 @@ streamlit run app.py
 Below demo is shown on Streamlit APP created.
 
 ![Demo](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Demo.jpg)
+![Dalle_images](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Dalle_images.jpeg)
