@@ -26,7 +26,7 @@ python gpt2_finetuning.py \
 
 
 ## Inference
-We have already pre-processed and fine-tuned our model so you can directly use below command to run the app
+We have already pre-processed and fine-tuned our model so you can directly use below command to run the app but before that download the files given on this link () and add it to the main/output folder
 ```
 export OPENAI_API_KEY="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"
 streamlit run app.py
