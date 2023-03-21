@@ -1,4 +1,4 @@
-# Fine tuning a GPT-2 model on your own input text
+# Fine tuning a GPT-2 model on GOT Data
 
 1. First preprocess the data
 Use the notebook book_cleaning.ipynb
