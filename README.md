@@ -31,3 +31,8 @@ We have already pre-processed and fine-tuned our model so you can directly use b
 export OPENAI_API_KEY="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"
 streamlit run app.py
 ```
+
+## Demo
+Below demo is shown on Streamlit APP created.
+
+[link](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Demo.jpg)
