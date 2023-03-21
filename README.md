@@ -35,4 +35,4 @@ streamlit run app.py
 ## Demo
 Below demo is shown on Streamlit APP created.
 
-[link](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Demo.jpg)
+![Demo](https://github.com/KaushalNaresh/AI_in_Storytelling/blob/main/Demo.jpg)
