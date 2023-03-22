@@ -26,7 +26,7 @@ python gpt2_finetuning.py \
 
 
 ## Running the APP
-We have already pre-processed and fine-tuned our model so you can directly use below command to run the app but before that download the files given on this [link](https://www.mediafire.com/file/r4ilwku0h2ngiu1/Archive.zip/file) and add it to the main/output folder
+We have already pre-processed and fine-tuned our model so you can directly use below command (in main folder) to run the app but before that download the files given on this [link](https://www.mediafire.com/file/r4ilwku0h2ngiu1/Archive.zip/file) and add it to the main/output folder
 ```
 export OPENAI_API_KEY="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"
 streamlit run app.py
